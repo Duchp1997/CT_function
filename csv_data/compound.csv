@@ -1,0 +1,243 @@
+,Material,ZA,I,Density,Composition
+0,A-150 Tissue-Equivalent Plastic ,0.54903,65.1,1.127, 1: 0.101330
+1,A-150 Tissue-Equivalent Plastic ,,,,6: 0.775498
+2,A-150 Tissue-Equivalent Plastic ,,,,7: 0.035057
+3,A-150 Tissue-Equivalent Plastic ,,,,8: 0.052315
+4,A-150 Tissue-Equivalent Plastic ,,,,9: 0.017423
+5,A-150 Tissue-Equivalent Plastic ,,,,20: 0.018377
+6,Adipose Tissue (ICRU-44) ,0.55579,64.8,0.95,1: 0.114000
+7,Adipose Tissue (ICRU-44) ,,,,6: 0.598000
+8,Adipose Tissue (ICRU-44) ,,,,7: 0.007000
+9,Adipose Tissue (ICRU-44) ,,,,8: 0.278000
+10,Adipose Tissue (ICRU-44) ,,,,11: 0.001000
+11,Adipose Tissue (ICRU-44) ,,,,16: 0.001000
+12,Adipose Tissue (ICRU-44) ,,,,17: 0.001000
+13,"Air, Dry (near sea level) ",0.49918999999999997,85.7,0.0012050000000000001,6: 0.000124
+14,"Air, Dry (near sea level) ",,,,7: 0.755268
+15,"Air, Dry (near sea level) ",,,,8: 0.231781
+16,"Air, Dry (near sea level) ",,,,18: 0.012827
+17,Alanine ,0.53876,71.9,1.4240000000000002,1: 0.079192
+18,Alanine ,,,,6: 0.404437
+19,Alanine ,,,,7: 0.157213
+20,Alanine ,,,,8: 0.359157
+21,B-100 Bone-Equivalent Plastic ,0.5274,85.9,1.45,1: 0.065473
+22,B-100 Bone-Equivalent Plastic ,,,,6: 0.536942
+23,B-100 Bone-Equivalent Plastic ,,,,7: 0.021500
+24,B-100 Bone-Equivalent Plastic ,,,,8: 0.032084
+25,B-100 Bone-Equivalent Plastic ,,,,9: 0.167415
+26,B-100 Bone-Equivalent Plastic ,,,,20: 0.176585
+27,Bakelite ,0.52792,72.4,1.25,1: 0.057444
+28,Bakelite ,,,,6: 0.774589
+29,Bakelite ,,,,8: 0.167968
+30,"Blood, Whole (ICRU-44) ",0.54999,75.2,1.06,1: 0.102000
+31,"Blood, Whole (ICRU-44) ",,,,6: 0.110000
+32,"Blood, Whole (ICRU-44) ",,,,7: 0.033000
+33,"Blood, Whole (ICRU-44) ",,,,8: 0.745000
+34,"Blood, Whole (ICRU-44) ",,,,11: 0.001000
+35,"Blood, Whole (ICRU-44) ",,,,15: 0.001000
+36,"Blood, Whole (ICRU-44) ",,,,16: 0.002000
+37,"Blood, Whole (ICRU-44) ",,,,17: 0.003000
+38,"Blood, Whole (ICRU-44) ",,,,19: 0.002000
+39,"Blood, Whole (ICRU-44) ",,,,26: 0.001000
+40,"Bone, Cortical (ICRU-44) ",0.51478,112.0,1.92,1: 0.034000
+41,"Bone, Cortical (ICRU-44) ",,,,6: 0.155000
+42,"Bone, Cortical (ICRU-44) ",,,,7: 0.042000
+43,"Bone, Cortical (ICRU-44) ",,,,8: 0.435000
+44,"Bone, Cortical (ICRU-44) ",,,,11: 0.001000
+45,"Bone, Cortical (ICRU-44) ",,,,12: 0.002000
+46,"Bone, Cortical (ICRU-44) ",,,,15: 0.103000
+47,"Bone, Cortical (ICRU-44) ",,,,16: 0.003000
+48,"Bone, Cortical (ICRU-44) ",,,,20: 0.225000
+49,"Brain, Grey/White Matter (ICRU-44) ",0.5523899999999999,73.9,1.04,1: 0.107000
+50,"Brain, Grey/White Matter (ICRU-44) ",,,,6: 0.145000
+51,"Brain, Grey/White Matter (ICRU-44) ",,,,7: 0.022000
+52,"Brain, Grey/White Matter (ICRU-44) ",,,,8: 0.712000
+53,"Brain, Grey/White Matter (ICRU-44) ",,,,11: 0.002000
+54,"Brain, Grey/White Matter (ICRU-44) ",,,,15: 0.004000
+55,"Brain, Grey/White Matter (ICRU-44) ",,,,16: 0.002000
+56,"Brain, Grey/White Matter (ICRU-44) ",,,,17: 0.003000
+57,"Brain, Grey/White Matter (ICRU-44) ",,,,19: 0.003000
+58,Breast Tissue (ICRU-44) ,0.55196,70.3,1.02,1: 0.106000
+59,Breast Tissue (ICRU-44) ,,,,6: 0.332000
+60,Breast Tissue (ICRU-44) ,,,,7: 0.030000
+61,Breast Tissue (ICRU-44) ,,,,8: 0.527000
+62,Breast Tissue (ICRU-44) ,,,,11: 0.001000
+63,Breast Tissue (ICRU-44) ,,,,15: 0.001000
+64,Breast Tissue (ICRU-44) ,,,,16: 0.002000
+65,Breast Tissue (ICRU-44) ,,,,17: 0.001000
+66,C-552 Air-equivalent Plastic ,0.49968999999999997,86.8,1.76,1: 0.024681
+67,C-552 Air-equivalent Plastic ,,,,6: 0.501610
+68,C-552 Air-equivalent Plastic ,,,,8: 0.004527
+69,C-552 Air-equivalent Plastic ,,,,9: 0.465209
+70,C-552 Air-equivalent Plastic ,,,,14: 0.003973
+71,Cadmium Telluride ,0.41665,539.3,6.2,48: 0.468358
+72,Cadmium Telluride ,,,,52: 0.531642
+73,Calcium Fluoride ,0.48671000000000003,166.0,3.18,9: 0.486672
+74,Calcium Fluoride ,,,,20: 0.513328
+75,Calcium Sulfate ,0.49948000000000004,152.3,2.96,8: 0.470081
+76,Calcium Sulfate ,,,,16: 0.235534
+77,Calcium Sulfate ,,,,20: 0.294385
+78,15 mmol L-1 Ceric Ammonium Sulfate Solution ,0.55282,76.7,1.03,1: 0.107694
+79,15 mmol L-1 Ceric Ammonium Sulfate Solution ,,,,7: 0.000816
+80,15 mmol L-1 Ceric Ammonium Sulfate Solution ,,,,8: 0.875172
+81,15 mmol L-1 Ceric Ammonium Sulfate Solution ,,,,16: 0.014279
+82,15 mmol L-1 Ceric Ammonium Sulfate Solution ,,,,58: 0.002040
+83,Cesium Iodide ,0.41568999999999995,553.1,4.51,53: 0.488451
+84,Cesium Iodide ,,,,55: 0.511549
+85,"Concrete, Ordinary ",0.50932,124.5,2.3,1: 0.022100
+86,"Concrete, Ordinary ",,,,6: 0.002484
+87,"Concrete, Ordinary ",,,,8: 0.574930
+88,"Concrete, Ordinary ",,,,11: 0.015208
+89,"Concrete, Ordinary ",,,,12: 0.001266
+90,"Concrete, Ordinary ",,,,13: 0.019953
+91,"Concrete, Ordinary ",,,,14: 0.304627
+92,"Concrete, Ordinary ",,,,19: 0.010045
+93,"Concrete, Ordinary ",,,,20: 0.042951
+94,"Concrete, Ordinary ",,,,26: 0.006435
+95,"Concrete, Barite (TYPE BA) ",0.45714,248.2,3.35,1: 0.003585
+96,"Concrete, Barite (TYPE BA) ",,,,8: 0.311622
+97,"Concrete, Barite (TYPE BA) ",,,,12: 0.001195
+98,"Concrete, Barite (TYPE BA) ",,,,13: 0.004183
+99,"Concrete, Barite (TYPE BA) ",,,,14: 0.010457
+100,"Concrete, Barite (TYPE BA) ",,,,16: 0.107858
+101,"Concrete, Barite (TYPE BA) ",,,,20: 0.050194
+102,"Concrete, Barite (TYPE BA) ",,,,26: 0.047505
+103,"Concrete, Barite (TYPE BA) ",,,,56: 0.463400
+104,Eye Lens (ICRU-44) ,0.54709,74.3,1.07,1: 0.096000
+105,Eye Lens (ICRU-44) ,,,,6: 0.195000
+106,Eye Lens (ICRU-44) ,,,,7: 0.057000
+107,Eye Lens (ICRU-44) ,,,,8: 0.646000
+108,Eye Lens (ICRU-44) ,,,,11: 0.001000
+109,Eye Lens (ICRU-44) ,,,,15: 0.001000
+110,Eye Lens (ICRU-44) ,,,,16: 0.003000
+111,Eye Lens (ICRU-44) ,,,,17: 0.001000
+112,Ferrous Sulfate Standard Fricke ,0.5533399999999999,76.3,1.024,1: 0.108376
+113,Ferrous Sulfate Standard Fricke ,,,,8: 0.878959
+114,Ferrous Sulfate Standard Fricke ,,,,11: 0.000022
+115,Ferrous Sulfate Standard Fricke ,,,,16: 0.012553
+116,Ferrous Sulfate Standard Fricke ,,,,17: 0.000035
+117,Ferrous Sulfate Standard Fricke ,,,,26: 0.000055
+118,Gadolinium Oxysulfide ,0.42265,493.3,7.44,8: 0.084527
+119,Gadolinium Oxysulfide ,,,,16: 0.084704
+120,Gadolinium Oxysulfide ,,,,64: 0.830769
+121,Gafchromic Sensor ,0.54384,67.2,1.3,1: 0.089700
+122,Gafchromic Sensor ,,,,6: 0.605800
+123,Gafchromic Sensor ,,,,7: 0.112200
+124,Gafchromic Sensor ,,,,8: 0.192300
+125,Gallium Arsenide ,0.44246,384.9,5.31,31: 0.482030
+126,Gallium Arsenide ,,,,33: 0.517970
+127,"Glass, Borosilicate (Pyrex) ",0.49706999999999996,134.0,2.23,5: 0.040066
+128,"Glass, Borosilicate (Pyrex) ",,,,8: 0.539559
+129,"Glass, Borosilicate (Pyrex) ",,,,11: 0.028191
+130,"Glass, Borosilicate (Pyrex) ",,,,13: 0.011644
+131,"Glass, Borosilicate (Pyrex) ",,,,14: 0.377220
+132,"Glass, Borosilicate (Pyrex) ",,,,19: 0.003321
+133,"Glass, Lead ",0.42101000000000005,526.4,6.22,8: 0.156453
+134,"Glass, Lead ",,,,14: 0.080866
+135,"Glass, Lead ",,,,22: 0.008092
+136,"Glass, Lead ",,,,33: 0.002651
+137,"Glass, Lead ",,,,82: 0.751938
+138,Lithium Fluride ,0.46262,94.0,2.635,3: 0.267585
+139,Lithium Fluride ,,,,9: 0.732415
+140,Lithium Tetraborate ,0.48485,94.6,2.44,3: 0.082081
+141,Lithium Tetraborate ,,,,5: 0.255715
+142,Lithium Tetraborate ,,,,8: 0.662204
+143,Lung Tissue (ICRU-44) ,0.55048,75.2,1.05,1: 0.103000
+144,Lung Tissue (ICRU-44) ,,,,6: 0.105000
+145,Lung Tissue (ICRU-44) ,,,,7: 0.031000
+146,Lung Tissue (ICRU-44) ,,,,8: 0.749000
+147,Lung Tissue (ICRU-44) ,,,,11: 0.002000
+148,Lung Tissue (ICRU-44) ,,,,15: 0.002000
+149,Lung Tissue (ICRU-44) ,,,,16: 0.003000
+150,Lung Tissue (ICRU-44) ,,,,17: 0.003000
+151,Lung Tissue (ICRU-44) ,,,,19: 0.002000
+152,Magnesium Tetroborate ,0.49012,108.3,2.53,5: 0.240870
+153,Magnesium Tetroborate ,,,,8: 0.623762
+154,Magnesium Tetroborate ,,,,12: 0.135367
+155,Mercuric Iodide ,0.40933,684.5,6.36,53: 0.558560
+156,Mercuric Iodide ,,,,80: 0.441440
+157,"Muscle, Skeletal (ICRU-44) ",0.55,74.6,1.05,1: 0.102000
+158,"Muscle, Skeletal (ICRU-44) ",,,,6: 0.143000
+159,"Muscle, Skeletal (ICRU-44) ",,,,7: 0.034000
+160,"Muscle, Skeletal (ICRU-44) ",,,,8: 0.710000
+161,"Muscle, Skeletal (ICRU-44) ",,,,11: 0.001000
+162,"Muscle, Skeletal (ICRU-44) ",,,,15: 0.002000
+163,"Muscle, Skeletal (ICRU-44) ",,,,16: 0.003000
+164,"Muscle, Skeletal (ICRU-44) ",,,,17: 0.001000
+165,"Muscle, Skeletal (ICRU-44) ",,,,19: 0.004000
+166,Ovary (ICRU-44) ,0.5514899999999999,75.0,1.05,1: 0.105000
+167,Ovary (ICRU-44) ,,,,6: 0.093000
+168,Ovary (ICRU-44) ,,,,7: 0.024000
+169,Ovary (ICRU-44) ,,,,8: 0.768000
+170,Ovary (ICRU-44) ,,,,11: 0.002000
+171,Ovary (ICRU-44) ,,,,15: 0.002000
+172,Ovary (ICRU-44) ,,,,16: 0.002000
+173,Ovary (ICRU-44) ,,,,17: 0.002000
+174,Ovary (ICRU-44) ,,,,19: 0.002000
+175,Photographic Emulsion (Kodak Type AA) ,0.48176,179.0,2.2,1: 0.030500
+176,Photographic Emulsion (Kodak Type AA) ,,,,6: 0.210700
+177,Photographic Emulsion (Kodak Type AA) ,,,,7: 0.072100
+178,Photographic Emulsion (Kodak Type AA) ,,,,8: 0.163200
+179,Photographic Emulsion (Kodak Type AA) ,,,,35: 0.222800
+180,Photographic Emulsion (Kodak Type AA) ,,,,47: 0.300700
+181,Photographic Emulsion (Standard Nuclear) ,0.45453000000000005,331.0,3.815,1: 0.014100
+182,Photographic Emulsion (Standard Nuclear) ,,,,6: 0.072261
+183,Photographic Emulsion (Standard Nuclear) ,,,,7: 0.019320
+184,Photographic Emulsion (Standard Nuclear) ,,,,8: 0.066101
+185,Photographic Emulsion (Standard Nuclear) ,,,,16: 0.001890
+186,Photographic Emulsion (Standard Nuclear) ,,,,35: 0.349104
+187,Photographic Emulsion (Standard Nuclear) ,,,,47: 0.474105
+188,Photographic Emulsion (Standard Nuclear) ,,,,53: 0.003120
+189,"Plastic Scintillator, Vinyltoluene ",0.5414100000000001,64.7,1.032,1: 0.085000
+190,"Plastic Scintillator, Vinyltoluene ",,,,6: 0.915000
+191,Polyethylene ,0.57033,57.4,0.93,1: 0.143716
+192,Polyethylene ,,,,6: 0.856284
+193,"Polyethylene Terephthalate, (Mylar) ",0.52037,78.7,1.38,1: 0.041960
+194,"Polyethylene Terephthalate, (Mylar) ",,,,6: 0.625016
+195,"Polyethylene Terephthalate, (Mylar) ",,,,8: 0.333024
+196,Polymethyl Methacrylate ,0.53937,74.0,1.19,1: 0.080541
+197,Polymethyl Methacrylate ,,,,6: 0.599846
+198,Polymethyl Methacrylate ,,,,8: 0.319613
+199,Polystyrene ,0.53768,68.7,1.06,1: 0.077421
+200,Polystyrene ,,,,6: 0.922579
+201,"Polytetrafluoroethylene, (Teflon) ",0.47993,99.1,2.25,6: 0.240183
+202,"Polytetrafluoroethylene, (Teflon) ",,,,9: 0.759818
+203,Polyvinyl Chloride ,0.5120100000000001,108.2,1.406,1: 0.048382
+204,Polyvinyl Chloride ,,,,6: 0.384361
+205,Polyvinyl Chloride ,,,,17: 0.567257
+206,"Radiochromic Dye Film, Nylon Base ",0.54987,64.5,1.08,1: 0.101996
+207,"Radiochromic Dye Film, Nylon Base ",,,,6: 0.654396
+208,"Radiochromic Dye Film, Nylon Base ",,,,7: 0.098915
+209,"Radiochromic Dye Film, Nylon Base ",,,,8: 0.144693
+210,Testis (ICRU-44) ,0.552,74.7,1.04,1: 0.106000
+211,Testis (ICRU-44) ,,,,6: 0.099000
+212,Testis (ICRU-44) ,,,,7: 0.020000
+213,Testis (ICRU-44) ,,,,8: 0.766000
+214,Testis (ICRU-44) ,,,,11: 0.002000
+215,Testis (ICRU-44) ,,,,15: 0.001000
+216,Testis (ICRU-44) ,,,,16: 0.002000
+217,Testis (ICRU-44) ,,,,17: 0.002000
+218,Testis (ICRU-44) ,,,,19: 0.002000
+219,"Tissue, Soft (ICRU-44) ",0.54996,74.7,1.06,1: 0.102000
+220,"Tissue, Soft (ICRU-44) ",,,,6: 0.143000
+221,"Tissue, Soft (ICRU-44) ",,,,7: 0.034000
+222,"Tissue, Soft (ICRU-44) ",,,,8: 0.708000
+223,"Tissue, Soft (ICRU-44) ",,,,11: 0.002000
+224,"Tissue, Soft (ICRU-44) ",,,,15: 0.003000
+225,"Tissue, Soft (ICRU-44) ",,,,16: 0.003000
+226,"Tissue, Soft (ICRU-44) ",,,,17: 0.002000
+227,"Tissue, Soft (ICRU-44) ",,,,19: 0.003000
+228,"Tissue, Soft (ICRU Four-Component) ",0.54975,74.9,1.0,1: 0.101174
+229,"Tissue, Soft (ICRU Four-Component) ",,,,6: 0.111000
+230,"Tissue, Soft (ICRU Four-Component) ",,,,7: 0.026000
+231,"Tissue, Soft (ICRU Four-Component) ",,,,8: 0.761826
+232,"Tissue-Equivalent Gas, Methane Based ",0.54992,61.2,0.001064,1: 0.101873
+233,"Tissue-Equivalent Gas, Methane Based ",,,,6: 0.456177
+234,"Tissue-Equivalent Gas, Methane Based ",,,,7: 0.035172
+235,"Tissue-Equivalent Gas, Methane Based ",,,,8: 0.406778
+236,"Tissue-Equivalent Gas, Propane Based ",0.55027,59.5,0.0018260000000000001,1: 0.102676
+237,"Tissue-Equivalent Gas, Propane Based ",,,,6: 0.568937
+238,"Tissue-Equivalent Gas, Propane Based ",,,,7: 0.035022
+239,"Tissue-Equivalent Gas, Propane Based ",,,,8: 0.293365
+240,"Water, Liquid ",0.55508,75.0,1.0,1: 0.111898
+241,"Water, Liquid ",,,,8: 0.888102
