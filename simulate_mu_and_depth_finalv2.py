@@ -7,7 +7,8 @@
 @software：PyCharm
 
 Do not smash your computer!
-
+this file is used to simulate the relationship between depth of 
+compound material and mu
 Done
 """
 import os
